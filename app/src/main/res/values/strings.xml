@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Map It</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Parse -->
+    <string name="app_id">CNA8v4WCvdliNZJW2bKkEeU0jP8kXpTVAQRQowRn</string>
+    <string name="client_key">PgMPRzWTQrFyINVSSYJ1nnctHBUHxvClNAwj9jy5</string>
+
+    <!-- Professions -->
+    <string-array name="array_professions">
+        <item>Plumber</item>
+        <item>Electrician</item>
+        <item>Mechanic</item>
+        <item>Painter</item>
+        <item>Air Conditioning Technician</item>
+        <item>Locksmith</item>
+    </string-array>
+
+    <!-- Cities -->
+    <string-array name="array_cities">
+        <item>Cape Town</item>
+        <item>Durban</item>
+        <item>Johannesburg</item>
+    </string-array>
+
+    <!-- Suburbs in Cape Town -->
+    <string-array name="array_cape_town_suburbs">
+        <item>Athlone</item>
+        <item>Bellville</item>
+        <item>Belhar</item>
+        <item>Camps Bay</item>
+        <item>Century City</item>
+        <item>Claremont</item>
+        <item>Hout Bay</item>
+        <item>Kommet Jie</item>
+        <item>Phillipi</item>
+        <item>Simon\'s Town</item>
+    </string-array>
+
+    <!-- Suburbs in Durban -->
+    <string-array name="array_durban_suburbs">
+        <item>Bayhead</item>
+        <item>Bellair</item>
+        <item>Chesterville</item>
+        <item>Congela</item>
+        <item>Glenmore</item>
+        <item>Sherwood</item>
+        <item>Springfield</item>
+        <item>Stamford Hill</item>
+        <item>Westridge</item>
+        <item>Wiggins</item>
+    </string-array>
+
+    <!-- Suburbs in Johannesburg -->
+    <string-array name="array_johannesburg_suburbs">
+        <item>Alberton</item>
+        <item>Bedfordview</item>
+        <item>Boksburg</item>
+        <item>Edenvale</item>
+        <item>Germiston</item>
+        <item>Johannesburg</item>
+        <item>Johannesburg South</item>
+        <item>Sandton</item>
+        <item>Soweto</item>
+        <item>Randburg</item>
+        <item>Roodepoort</item>
+    </string-array>
+
+    <!-- Common -->
+    <string name="profession">Profession</string>
+    <string name="city">City</string>
+    <string name="suburb">Suburb</string>
+    <string name="done">Done</string>
+
+    <!-- Select Tradesman Criteria -->
+
+</resources>
